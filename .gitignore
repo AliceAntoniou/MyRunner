@@ -1,0 +1,7 @@
+*.json
+*.a
+*.kra
+*.jpg
+my_runner
+test.c
+textures/spot.png
